@@ -5,8 +5,8 @@
     "description": "Allows you to freely look around.",
     "version": "${version}",
     "mcversion": "${mcVersionStr}",
-    "url": "https://github.com/Syz66/Freelook",
-    "authorList": ["Syz66"],
+    "url": "https://github.com/Ghosty920/FreelookHyp",
+    "authorList": ["Syz66", "Ghosty920"],
     "credits": "RiverCodesIG"
   }
 ]

@@ -5,7 +5,7 @@ Allows you to freely look around.
 
 ### Features
 - First person & Third person.
-- Snaplook mode. (Auto-enabled on Hypixel)
+- Snaplook mode.
 - Unlockable pitch.
 - Key bind.
 
